@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/edualves/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/edualves/dev/MyRxApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/reactive-streams-1.0.0_cc58957e932e1ea60a04719279b5e6309dbe9a0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edualves/dev/MyRxApplication/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="566ee67191e4590919138f54f79eef988bb737a8">
+        <dex dex="/Users/edualves/dev/MyRxApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_02b2fb56a2fa29a1231c34fc48a1d333ebc1860e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edualves/dev/MyRxApplication/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/edualves/dev/MyRxApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0f3d3df5d62e1aa3ff8cc591875cc0d855698c66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edualves/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.5/4f1ac7ec0215e8f87ac80269baadc82878b87ed8/rxjava-2.0.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4f1ac7ec0215e8f87ac80269baadc82878b87ed8">
+        <dex dex="/Users/edualves/dev/MyRxApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-2.0.5_fbfae8e36d20d82c7aaffcef6ac9d559da02b2e6/classes.dex" />
+    </item>
+
+</items>
